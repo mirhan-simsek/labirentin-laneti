@@ -2,6 +2,10 @@
 
 Unity 6 (2D URP) ile geliştirilmiş 20 bölümlük, yandan görünümlü 2D pixel-art zindan, parkur ve boss savaşı oyunu.
 
+## Hemen Oyna (Tarayıcı & Mobil)
+Oyunu kurulum yapmadan doğrudan tarayıcıdan veya telefondan oynamak için **itch.io**'da **`mirhan-simsek`** (`mirhansimsekk.itch.io`) profilinden ulaşabilirsiniz:
+- **itch.io:** https://mirhansimsekk.itch.io
+
 ## Özellikler
 - **20 Bölüm & 4 Farklı Diyar:** Orman Harabeleri, Kristal Mağara, Lav Zindanı ve Karanlık Kale
 - **4 Benzersiz Boss Parkur Arenası:** Bölüm 5, 10, 15 ve 20 (Final Boss & Prenses Azra kurtarma sahnesi)
